@@ -12,6 +12,6 @@
         name: github-backup-automation
         image: koddr/github-backup-automation:latest
         recreate: yes
-        env_file: ${PWD}/.env
+        
         
 
