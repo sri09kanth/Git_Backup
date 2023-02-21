@@ -11,7 +11,7 @@
       docker_container:
         name: github-backup-automation
         image: koddr/github-backup-automation:latest
-        recreate: yes
+     
         
         
 
