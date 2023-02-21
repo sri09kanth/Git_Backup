@@ -14,4 +14,4 @@
         recreate: yes
         env_file: ${PWD}/.env
         volumes:
-          - ./var/github-backup:/srv/var/github-backup
+
