@@ -6,8 +6,7 @@
 ---
 - hosts: "{{ host|default('localhost') }}"
 
-  tasks:
-    - name: 
+
      
          
     
