@@ -9,7 +9,7 @@
   tasks:
     - name: Run Docker container for backup your GitHub accounts
       docker_container:
-        name: github-backup-automation
+        name: github-backup
     
         
         
